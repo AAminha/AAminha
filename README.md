@@ -35,10 +35,18 @@ __2021.09.01 ~ 2021.12.13__
 
 __2021.12.27 ~ 2022.01.28__  
 [21 동계Live]정혜경의 C 프로그래밍 (부:이승희)  
-• 2022년 1월 28일 수료완료  
+• Completed on January 28, 2022
 
 __2022.02.03 ~ 2022.02.25__  
 [동계 Live] 정혜경의 C++ & STL  
+• Completed on February 25, 2022
 
 __2022.02.04 ~ 2022.02.25__  
-[모각코](https://cafe.naver.com/codeuniv) 웹-리액트 편 스터디
+[모각코](https://cafe.naver.com/codeuniv) 웹-리액트 편 스터디  
+• Completed on February 25, 2022
+
+__2022.02.09 ~ 2022.02.27__  
+Mini Java Project  
+• 자바 프라푸치노, <선택장애 없는 대학생활>  
+• recipe and ingredient combination recommendation program  
+• GUI development using Java awt and swing packages  
