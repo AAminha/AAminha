@@ -12,13 +12,13 @@
 * Framework : React
 
 ### 🌱 I’m currently learning ...
-* C Programming Language
-* looking for something to study..
-* looking for different career paths..
+* studying my major
+* React
+* Android Studio
 
 ### :evergreen_tree: I want to learning ...
 * React Native
-* PHP(Hypertext Preprocessor)
+* TypeScript
 
 ### :hourglass: I have experienced ...
 __2021.07.12 ~ 2021.08.31__  
