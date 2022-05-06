@@ -26,7 +26,7 @@ React(Web Programming) Study
 • HTML & CSS & JavaScript study  
 • Twitter clone coding  
 • Todo list coding  
-• webtoon site clone coding  
+• webtoon site clone coding (~2022.03.24)
 
 __2021.09.01 ~ 2021.12.13__  
 2021 창의적공학설계 전시회  
