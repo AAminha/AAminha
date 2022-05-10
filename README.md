@@ -50,3 +50,6 @@ Mini Java Project
 • 자바 프라푸치노, <선택장애 없는 대학생활>  
 • recipe and ingredient combination recommendation program  
 • GUI development using Java awt and swing packages  
+
+__2022.04.20 ~ 진행중__  
+숭실대 동아리 유어슈 활동  
