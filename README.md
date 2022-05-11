@@ -15,10 +15,10 @@
 * studying my major
 * React
 * Android Studio
+* TypeScript
 
 ### :evergreen_tree: I want to learning ...
 * React Native
-* TypeScript
 
 ### :hourglass: I have experienced ...
 __2021.07.12 ~ 2021.08.31__  
