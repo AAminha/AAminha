@@ -53,7 +53,7 @@ Mini Java Project
 • GUI development using Java awt and swing packages 
 
 __2022.03.02 ~ 2022.06.14__  
-소프트웨어 프로젝트 
+소프트웨어 프로젝트   
 • 새싹비빔밥, <식물 관리 앱 - 잎파랑이>
 
 __2022.04.20 ~ ing__  
