@@ -1,5 +1,7 @@
 ## 👋 Hi there, I am AAminha!!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaminha&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaminha&langs_count=10&layout=compact&theme=dark)](https://github.com/aaminha/aaminha)
+
 ### 🤔 Who is AAminha ?!
 * My name is __Minha Ahn__.
 * I am currently attending Soongsil University.
@@ -10,8 +12,6 @@
 * Language : C, C++, Java, JavaScript, Python, R
 * Style sheet Language : HTML, CSS
 * Framework : React
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaminha&show_icons=true&theme=radical)
 
 ### 🌱 I’m currently learning ...
 * studying my major
