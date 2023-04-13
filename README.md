@@ -11,6 +11,8 @@
 * Style sheet Language : HTML, CSS
 * Framework : React
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaminha&show_icons=true&theme=radical)
+
 ### 🌱 I’m currently learning ...
 * studying my major
 * React
