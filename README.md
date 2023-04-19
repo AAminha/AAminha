@@ -9,18 +9,21 @@
 * I am convergence majoring in Bigdata.
 
 ### :wrench: The technique I've used at least once is ...
-* Language : C, C++, Java, JavaScript, Python, R
-* Style sheet Language : HTML, CSS
-* Framework : React
+#### Studying and Use well
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/recoil-f26b00?style=for-the-badge&logo=">
+#### Have used
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+#### Tool
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
-### 🌱 I’m currently learning ...
-* studying my major
+
+### 🌱 I’m currently learning and using
+* ~~studying my major~~
 * React
-* Android Studio
 * TypeScript
 
 ### :evergreen_tree: I want to learning ...
-* React Native
+* Front-end developer skills
 
 ### :hourglass: I have experienced ...
 __2021.07.12 ~ 2021.08.31__  
