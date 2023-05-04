@@ -16,15 +16,6 @@
 #### Tool
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
-
-### 🌱 I’m currently learning and using
-* ~~studying my major~~
-* React
-* TypeScript
-
-### :evergreen_tree: I want to learning ...
-* Front-end developer skills
-
 ### :hourglass: I have experienced ...
 __2021.07.12 ~ 2021.08.31__  
 React(Web Programming) Study  
@@ -62,4 +53,4 @@ __2022.03.02 ~ 2022.06.14__
 • 새싹비빔밥, <식물 관리 앱 - 잎파랑이>
 
 __2022.04.20 ~ ing__  
-숭실대 동아리 유어슈 활동  
+숭실대 동아리 유어슈 프론트엔드 팀 
