@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaminha&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaminha&langs_count=10&layout=compact&theme=dark)](https://github.com/aaminha/aaminha)
 <br />
+![trophy](https://github-profile-trophy.vercel.app/?username=AAminha)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 ### 🤔 Who is AAminha ?!
