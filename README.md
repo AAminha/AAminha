@@ -1,31 +1,36 @@
-## 👋 Hi there, I am AAminha!!
+## 👋 안녕하세요, 예비 프론트엔드 개발자 안민하입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaminha&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaminha&langs_count=10&layout=compact&theme=dark)](https://github.com/aaminha/aaminha)
 <br />
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-### 🤔 Who is AAminha ?!
+<br/>
 
-- My name is **Minha Ahn**.
-- I am currently attending Soongsil University.
-- I am majoring in software.
-- I am convergence majoring in Bigdata.
+### ☺️ 저를 소개합니다.
 
-### :wrench: The technique I've used at least once is ...
+- 새로운 도전을 통해 학습하고 성장하는 것을 즐기는 예비 프론트엔드 개발자입니다.
+- 현재에 안주하지 않고 끊임없이 개발자의 역량을 발전시키는 것을 목표로 하고 있습니다.
+- 언제나 사용자의 관점에서 바라보며, 제가 만든 세상에서 편리함과 즐거움을 느낄 수 있는 사용자 경험을 만들어 가겠습니다.
 
-#### Studying and Use well
+<br/>
+
+### 🔧 사용해본 기술 스택
+
+#### 메인 기술 스택
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/recoil-f26b00?style=for-the-badge&logo=">
 
-#### Have used
+#### 경험해본 기술 스택
 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-#### Tool
+#### 그 외
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
-### 프로젝트
+<br/>
+
+### 💻 프로젝트
 
 | 기간 | 프로젝트 | 설명 | 링크 |
 | --- | ---- | ----- | --- |
@@ -39,14 +44,18 @@
 | 2022.03.02 ~ <br/>2022.06.14   | 숭실대 소프트웨어학부, 소프트웨어 프로젝트<br/>새싹비빔밥, <잎파랑이>                 | ✔︎ 홈가드닝을 도와줄 식물 추천 및 관리 앱<br/>✔︎ Android Studio, Java를 이용한 앱 개발                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 2022.02.09 ~ <br/>2022.02.27   | 융특 소모임 Ci & Ai<br/>자바 프라푸치노, <선택장애 없는 대학생활> | ✔︎ 레시피 및 재료 조합 ​​추천 프로그램<br/>✔︎ Java awt 및 Swing 패키지를 사용한 GUI 개발                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-### 수상 내역
+<br/>
+
+### 🏆 수상 내역
 
 - `2024.08.06` | 2024 SW중심대학 디지털 경진대회 | 우수상 | 소프트웨어중심대학협의회
 - `2024.07.11` | 미래융합인재발굴 소프트웨어 챌린지 | 우수상 | 경산이노베이션 아카데미
 - `2022.03.29` | 구글 클라우드 이노베이션 컨테스트 | SOS, 소모임 및 동아리 운영 편리를 위한 서비스 제작 | 인기상 | 메가존소프트, 구글 클라우드
 - `2021.12.13` | 2021 창의적공학설계 전시회 | 솦벤션, <나만의 Mega 안내견> | 우수상 | 숭실대학교
 
-### 활동 내역
+<br/>
+
+### 🚀 활동 내역
 
 - `2024.08 ~ 2024.12` | 한국대학생IT경영학회 큐시즘 2회 전시 TF 기획총괄팀
 - `2024.02 ~ 2024.06` | 한국대학생IT경영학회 큐시즘 29기 프론트엔드 파트 & 교육기획팀원
@@ -63,6 +72,8 @@
   - 아가릿, <i-got-it, 결심 공유 프로젝트> (2023.04 ~ 2023.05)
   - 리얼월드 페어프로그래밍 프로젝트 (2023.06-2023.07)
   - 리쿠르팅페이지 TF 개발팀(웹 프론트) (2023.12-2024.02, 2024.11)
+
+<br/>
 
 ### 스터디 & 교육사항
 
